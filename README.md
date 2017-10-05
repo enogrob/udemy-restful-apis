@@ -63,11 +63,11 @@ Entendendo os conceitos que permeiam as RESTful APIs
 Section: 2
 0 / 15
 Projetando e Documentando nossa primeira API RESTful
-[ ] 32. Conhecendo o Swagger.io 2:04
-[ ] 33. Swagger Editor 3:23
-[ ] 34. Projetando nossa 1a API 2:05
-[ ] 35. Primeiros Passos 9:35
-[ ] 36. Definitions Object 5:53
+[x] 32. Conhecendo o Swagger.io 2:04
+[x] 33. Swagger Editor 3:23
+[x] 34. Projetando nossa 1a API 2:05
+[x] 35. Primeiros Passos 9:35
+[x] 36. Definitions Object 5:53
 [ ] 37. Primeiro Path 7:47
 [ ] 38. Read com parâmetro 4:51
 [ ] 39. Create path 6:55
