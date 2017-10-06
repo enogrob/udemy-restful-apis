@@ -68,9 +68,9 @@ Projetando e Documentando nossa primeira API RESTful
 [x] 34. Projetando nossa 1a API 2:05
 [x] 35. Primeiros Passos 9:35
 [x] 36. Definitions Object 5:53
-[ ] 37. Primeiro Path 7:47
-[ ] 38. Read com parâmetro 4:51
-[ ] 39. Create path 6:55
+[x] 37. Primeiro Path 7:47
+[x] 38. Read com parâmetro 4:51
+[x] 39. Create path 6:55
 [ ] 40. Put/Patch path 3:24
 [ ] 41. Delete path 3:45
 [ ] 42. REST? RESTful? 2:33
